@@ -1,0 +1,48 @@
+// Accept the string and convert string into upper case.
+
+//---------------------------------------------------------
+// Header File and Macros
+//---------------------------------------------------------
+#include<stdio.h>
+
+//---------------------------------------------------------
+// Function Name: struprX
+// Input        : String
+// Output       : String
+// Description  : This function accept the string and 
+//                convert string into upper case.
+// Author       : Sneha Yogesh Choudhari
+//---------------------------------------------------------
+
+void struprX(char str[])
+{
+    if(str == NULL)
+    {return;}
+    
+    while(*str != '\0')
+    {
+        if((*str >= 'a') && (*str <= 'z'))
+        {
+            *str = *str - 32;
+        }
+        str++;
+    }
+}
+//------------------------------------------------------------
+// Entry point function
+//------------------------------------------------------------
+
+int main()
+{
+    char Arr[10];
+    int iRet = 0;
+	
+    printf("Enter string: \n");
+    scanf("%[^'\n']s",Arr);
+	
+    struprX(Arr);   
+	
+    printf("Updated string is: %s\n",Arr);
+	
+    return 0;
+}
