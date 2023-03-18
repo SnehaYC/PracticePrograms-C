@@ -9,5 +9,6 @@ Topic:
 3. Assignmnet 3 -> Problems on Pattern.
 4. Assignmnet 4 -> Problems on N numbers.
 5. Assignment 5 -> Problems on String.
+6. Assignment 6 -> Problems on Bit manipulation.
 
 To be continued..
