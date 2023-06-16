@@ -19,7 +19,6 @@ Output : 3 4 6 7 8 9
 // Description  : This function accept number from user and 
 // 				  display all its non factors..
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 void NonFact(int iNo)
 {

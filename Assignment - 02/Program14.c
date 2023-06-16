@@ -14,7 +14,6 @@
 // Description  : This function accept Accept one character from 
 //				  user and convert case of that character.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 void DisplayConvert(char CValue) 
 { 

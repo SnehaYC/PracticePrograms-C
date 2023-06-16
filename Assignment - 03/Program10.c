@@ -21,7 +21,6 @@
 // Output        :  Integer
 // Description   :  This function accept number from user and count 
 //                  frequency of such a digits which are less than 6.
-// Date          :	04/13/2022
 // Author        :  Sneha Yogesh Choudhari
 //-----------------------------------------------------------
 

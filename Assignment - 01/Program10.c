@@ -13,7 +13,6 @@
 // Description  : This function Accept number from user if numbers less than 
 //                10 then print “Hello” otherwise print “Demo”. 
 // Author       : Sneha Yogesh Choudhari
-// Date         : 01/03/2021
 //---------------------------------------------------------
 void Display(int iNo)
 {

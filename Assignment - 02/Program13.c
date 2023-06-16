@@ -14,7 +14,6 @@
 // Description  : This function accept number from user 
 //                and print even factors of that number.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 void DisplayEvenFactor(int iNo)
 {

@@ -10,7 +10,6 @@
 // Input         : Integer
 // Output        : Integer
 // Description   : This funtion display the numbers.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //----------------------------------------------
 

@@ -10,7 +10,6 @@
 // Input         : Integer
 // Output        : Integer
 // Description   : This function is use to print 5 times Marvellous on screen.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //----------------------------------------------------------------------------
 void Display()

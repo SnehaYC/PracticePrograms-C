@@ -15,7 +15,6 @@ typedef int BOOL;
 // Description  : This function Accept number from user 
 //                and check whether number is even or odd.  
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //-----------------------------------------------------------
 BOOL ChkEven(int iNo)
 {

@@ -7,7 +7,6 @@
 
 //----------------------------------------------
 // Description   :  This function Display the output using Printf funtion
-// Date          :	04/13/2022
 // Author        :  Sneha Yogesh Choudhari
 //----------------------------------------------
 int main()

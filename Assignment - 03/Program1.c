@@ -18,7 +18,6 @@
 // Output        :  Integer
 // Description   :  This function program which accept number 
 //                  from user and display its multiplication of factors.  
-// Date          :	04/13/2022
 // Author        :  Sneha Yogesh Choudhari
 //-----------------------------------------------------------
 

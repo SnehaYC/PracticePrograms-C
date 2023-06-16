@@ -17,7 +17,6 @@ Output : 37
 // Description  : This function accept number from user and 
 // 				  return summation of all its non factors.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 int SumNonFact(int iNo)
 {

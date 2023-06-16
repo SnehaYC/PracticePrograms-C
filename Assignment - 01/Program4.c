@@ -11,7 +11,6 @@
 // Output        : Integer
 // Description   : This function is used to accept number and 
 //                 display 5 to 1 numbers on screen.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //-----------------------------------------------------------
 int Display()

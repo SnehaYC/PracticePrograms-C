@@ -19,7 +19,6 @@ Output : 10 (1 * 2 * 5)
 // Description  : This function accept number from user and 
 // 				  display its multiplication of factors.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 int MultFact(int iNo)
 {

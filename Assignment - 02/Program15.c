@@ -18,7 +18,6 @@ typedef int BOOL ;
 // Description  : This function accept one character from user and 
 //				  check whether that character is vowel(a,e,i,o,u) or not.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 BOOL ChkVowel ( char x )
 {

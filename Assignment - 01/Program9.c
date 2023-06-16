@@ -11,7 +11,6 @@
 // Output        : Display
 // Description   : This function is used to accpt number and 
 //                 display the content using for loop.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //----------------------------------------------------------
 void Accept(int iNo)

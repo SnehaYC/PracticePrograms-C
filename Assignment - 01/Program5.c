@@ -10,7 +10,6 @@
 // Input         : Integer
 // Output        : Integer
 // Description   : This function is used to divide one number from another.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //-------------------------------------------------------------------------
 int Divide(int iNo1, int iNo2)

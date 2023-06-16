@@ -14,7 +14,6 @@ typedef int BOOL;
 // Output        : Integer
 // Description   : This function is use to check whether the given
 //                 input number is divisible by 5 or not.
-// Date          : 04/13/2022
 // Author        : Sneha Yogesh Choudhari
 //-----------------------------------------------------------------
 int Check(int iNo)

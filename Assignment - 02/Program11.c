@@ -21,7 +21,6 @@ Output :
 // Description  : This function Accept two numbers from user 
 //                and display first number in second number of times. 
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 int Display( int iNo, int iFrequency)
 {

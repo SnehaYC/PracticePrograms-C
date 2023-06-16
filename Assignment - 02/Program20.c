@@ -17,7 +17,6 @@ Output : -29 (8 - 37)
 // Description  : This function accept number from user and difference between
 // 				  summation of all its factors and non factors.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 int FactDiff(int iNo)
 {

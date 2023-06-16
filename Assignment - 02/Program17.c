@@ -19,7 +19,6 @@ Output : 5 2 1
 // Description  : This function accept number from user and display
 //                its factors in decreasing order.
 // Author       : Sneha Yogesh Choudhari
-// Date         : 04/13/2022
 //----------------------------------------------------------
 void FactRev(int iNo)
 {     

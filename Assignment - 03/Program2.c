@@ -19,7 +19,6 @@
 // Output        :  Integer
 // Description   :  This funtion accept number from user and display its 
 //                  factors in decreasing order. 
-// Date          :	04/13/2022
 // Author        :  Sneha Yogesh Choudhari
 //-----------------------------------------------------------
 
